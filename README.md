@@ -14,18 +14,18 @@ Aplicación que se conecta con hsqldb y genera facturas a partir de un numero de
 - jasperreports-6.11.0
 
 # Vistas de la aplicación:
-esta es la vista del panel cliente
+Esta es la vista del panel cliente
 
 !["](/practicaInforme/imagenes/imagenes/Panel_cliente)
 
-esta es la vista del panel factura sin filtro
+Esta es la vista del panel factura sin filtro
 
 !["](/practicaInforme/imagenes/imagenes/Panel_factura_sin_filtro)
 
-esta es la vista del panel factura con filtro
+Esta es la vista del panel factura con filtro
 
 !["](/practicaInforme/imagenes/imagenes/Panel_factura_con_filtro)
 
-esta es la vista del panel para crear informes  
+Esta es la vista del panel para crear informes  
 
-!["](/practicaInforme/imagenes/imagenes/Panel_para_generar_facturas) 
+!["](/practicaInforme/imagenes/imagenes/Panel_para_generar_facturas)
