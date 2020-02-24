@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"practicaInforme","l":"Conexion"},{"p":"practicaInforme","l":"Informe"},{"p":"practicaInforme","l":"PanelCliente"},{"p":"practicaInforme","l":"PanelCrearInforme"},{"p":"practicaInforme","l":"PanelFacturas"}]
