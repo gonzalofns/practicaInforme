@@ -1,7 +1,9 @@
 
 # Practica Informe 
+
 # Descripción: 
 Aplicación que se conecta con hsqldb y genera facturas a partir de un numero de factura
+
 # Librerias utilizadas: 
 - com.lowagie.text-2.1.7 
 - commons-beanutils-1.9.3 
