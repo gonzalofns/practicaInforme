@@ -28,4 +28,4 @@ esta es la vista del panel factura con filtro
 
 esta es la vista del panel para crear informes  
 
-!["](/practicaInforme/imagenes/imagenes/Panel_para generar_facturas) 
+!["](/practicaInforme/imagenes/imagenes/Panel_para_generar_facturas) 
